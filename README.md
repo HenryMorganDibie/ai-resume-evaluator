@@ -34,12 +34,12 @@ Each resume is evaluated based on:
 - **Keyword Match Score** (40%)
 - **Matched Skills** (Python, SQL, Power BI, Excel, etc.)
 
-You can customize the skill list and weights in `scorer.py`.
+The logic is customizable in `scorer.py` and `matcher.py`
 
 ---
 
 ## 📁 Project Structure
-
+<pre lang="markdown">
 ai-resume-evaluator/
 ├── app.py # Main Streamlit app
 ├── utils/
@@ -56,3 +56,52 @@ ai-resume-evaluator/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+</pre>
+
+
+---
+
+## 🛠️ Installation
+
+```bash
+# Clone the repo
+git clone https://github.com/HenryMorganDibie/ai-resume-evaluator.git
+cd ai-resume-evaluator
+
+# Create virtual environment
+python -m venv venv
+venv\Scripts\activate      # On Windows
+# source venv/bin/activate  # On macOS/Linux
+
+# Install required packages
+pip install -r requirements.txt
+```
+
+## ▶️ Run the App
+```
+streamlit run app.py
+```
+
+## 📥 Sample Data
+Test the app using files in the sample_data/ folder or upload your own:
+
+- sample_resume.pdf
+
+- sample_jd.txt
+
+## 🌐 Deployment Options
+- Deploy your app on:
+
+- Streamlit Cloud
+
+- Render
+
+- Heroku
+
+Instructions can be added in a future deployment section.
+
+## 👨‍💻 Built By
+Henry C. Dibie
+Data Scientist | Analytics & Automation | NLP & AI Products
+📎 LinkedIn
+📰 Medium
