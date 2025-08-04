@@ -17,13 +17,16 @@ An AI-powered Streamlit app that allows HR teams and recruiters to evaluate and 
 ## 📸 Demo Screenshots
 
 ### 🏠 Home View
-C:\Users\Henry Morgan\henry-analytics-core\ai-resume-evaluator\screenshots\screenshots\home_view.png
+<img width="956" height="628" alt="home_view" src="https://github.com/user-attachments/assets/84f933d5-4700-4c59-b96b-157b793348e1" />
+
 
 ### 📥 Resume Upload
-C:\Users\Henry Morgan\henry-analytics-core\ai-resume-evaluator\screenshots\screenshots\upload_screen.png
+<img width="1059" height="297" alt="upload _screen" src="https://github.com/user-attachments/assets/97fa2254-69ec-4e40-956c-b901c9a285a2" />
+
 
 ### 📊 Match Score Breakdown
-C:\Users\Henry Morgan\henry-analytics-core\ai-resume-evaluator\screenshots\screenshots\score_breakdown.png
+<img width="849" height="205" alt="score_breakdown" src="https://github.com/user-attachments/assets/5aa7162b-9928-4e8d-873b-307d83db5c50" />
+
 
 ---
 
